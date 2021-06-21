@@ -1,2 +1,2 @@
 # DatingApp
-Exam project in WPF/MVVM and SQL, 2021
+Exam project in WPF/MVVM and SQL, June 2021
