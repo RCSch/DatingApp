@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net" modified="2021-08-04T07:53:13.498Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="jWEcsMdLj_AE3Bk8R_O3" version="14.9.4" type="github">
+  <diagram id="7kkS7QM_dYre8E5BgApC" name="Page-1">
+    <mxGraphModel dx="1422" dy="794" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="HxurKWXJ1Fr3Lu08nbQo-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="120" width="680" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="HxurKWXJ1Fr3Lu08nbQo-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="400" width="310" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HxurKWXJ1Fr3Lu08nbQo-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="310" width="310" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HxurKWXJ1Fr3Lu08nbQo-4" value="Brugernavn:" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="210" y="320" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HxurKWXJ1Fr3Lu08nbQo-5" value="Password:" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="210" y="410" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HxurKWXJ1Fr3Lu08nbQo-6" value="LOG IN" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="381.5" y="490" width="77" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="HxurKWXJ1Fr3Lu08nbQo-7" value="APP NAME GOES HERE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="305" y="200" width="230" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qC3JoKhxslK5piLcTB4x-1" value="Opret bruger!" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="515" y="591" width="77" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="qC3JoKhxslK5piLcTB4x-2" value="Ikke bruger endnu?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="250" y="599.5" width="115" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
